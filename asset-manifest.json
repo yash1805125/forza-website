@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/forza-website/static/css/main.e81cca26.chunk.css",
+    "main.js": "/forza-website/static/js/main.18ecaa48.chunk.js",
+    "main.js.map": "/forza-website/static/js/main.18ecaa48.chunk.js.map",
+    "runtime-main.js": "/forza-website/static/js/runtime-main.87123011.js",
+    "runtime-main.js.map": "/forza-website/static/js/runtime-main.87123011.js.map",
+    "static/js/2.944afe45.chunk.js": "/forza-website/static/js/2.944afe45.chunk.js",
+    "static/js/2.944afe45.chunk.js.map": "/forza-website/static/js/2.944afe45.chunk.js.map",
+    "static/js/3.a6b36c35.chunk.js": "/forza-website/static/js/3.a6b36c35.chunk.js",
+    "static/js/3.a6b36c35.chunk.js.map": "/forza-website/static/js/3.a6b36c35.chunk.js.map",
+    "index.html": "/forza-website/index.html",
+    "static/css/main.e81cca26.chunk.css.map": "/forza-website/static/css/main.e81cca26.chunk.css.map",
+    "static/js/2.944afe45.chunk.js.LICENSE.txt": "/forza-website/static/js/2.944afe45.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87123011.js",
+    "static/js/2.944afe45.chunk.js",
+    "static/css/main.e81cca26.chunk.css",
+    "static/js/main.18ecaa48.chunk.js"
+  ]
+}
