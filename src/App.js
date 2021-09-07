@@ -22,23 +22,28 @@ class App extends Component {
   handleb2 = () => {
     this.setState({ info: [] });
   };
+  handleClick3 = () => {
+    if (this.state.type == "Super Cars") {
+      this.setState({ info: Cars });
+    }
+  };
   render() {
     return (
       <div className="App">
         <select class="s1" value={this.state.type} onChange={this.handleChange}>
           <option>Super Cars</option>
-          <option>Super Fast Cars</option>
-          <option>Real Fast</option>
-          <option>Fast</option>
-          <option>Slow</option>
+          <option>Expensive Cars</option>
+          <option>Fast Cars</option>
+          <option>Drift Cars</option>
         </select>
+        <button onClick={this.handleClick3}>Show</button>
 
         <button onClick={this.handleClick} class="b1">
           Visualize Cars
         </button>
-        <button class="b2" onClick={this.handleb2}>
+        {/* <button class="b2" onClick={this.handleb2}>
           Hide Cars
-        </button>
+        </button> */}
 
         <div>
           <div>
